@@ -1,5 +1,9 @@
 package main
 
+import "fmt"
+
 func main() {
-	// write your code here
+	var g, p int
+	_, _ = fmt.Scanf("g is %d and p is %d", &g, &p)
+	fmt.Printf("g=%d and p=%d\n", g, p)
 }
