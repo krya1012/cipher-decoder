@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.2.0] - 2026-06-09
+
+### Added
+- Stage 3 (Encrypt and Decrypt): Caesar cipher using shared secret S as shift. Bob sends encrypted "Will you marry me?", decrypts Alice's reply, and responds with encrypted "Great!" or "What a pity!" accordingly.
+
 ## [1.1.0] - 2026-06-09
 
 ### Added
