@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow directory traversal
+!*/
+
+# Allow specific file types
+!*.go
+!go.mod
+!go.sum
+!*.md
+!.gitignore
